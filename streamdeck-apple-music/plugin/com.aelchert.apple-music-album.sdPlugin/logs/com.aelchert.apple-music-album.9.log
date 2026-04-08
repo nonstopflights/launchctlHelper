@@ -1,1 +1,0 @@
-2026-04-07T18:30:04.225Z ERROR Failed to initialize Apple Music Album plugin: ENOENT: no such file or directory, rename '/Users/aelchert/Library/Application Support/com.aelchert.apple-music-album/state.json.tmp' -> '/Users/aelchert/Library/Application Support/com.aelchert.apple-music-album/state.json'

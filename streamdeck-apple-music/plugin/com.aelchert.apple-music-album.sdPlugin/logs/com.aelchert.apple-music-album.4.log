@@ -1,7 +1,0 @@
-2026-04-08T15:29:09.003Z INFO  onKeyDown fired for action 257b3bdb4f01ee19a480be7e578ddab7
-2026-04-08T15:29:09.016Z INFO  settings.albumUrl = https://music.apple.com/us/album/here-for-it-all/1827315213
-2026-04-08T15:29:09.022Z INFO  Parsed album: label=Here For It All, url=https://music.apple.com/us/album/here-for-it-all/1827315213
-2026-04-08T15:29:09.022Z INFO  openAndPlay called with url=https://music.apple.com/us/album/here-for-it-all/1827315213
-2026-04-08T15:29:09.261Z INFO  openUrl resolved — waiting 4s before play
-2026-04-08T15:29:13.265Z INFO  Sending play via System Events keystroke
-2026-04-08T15:29:14.448Z INFO  osascript keystroke succeeded | stdout: ""
