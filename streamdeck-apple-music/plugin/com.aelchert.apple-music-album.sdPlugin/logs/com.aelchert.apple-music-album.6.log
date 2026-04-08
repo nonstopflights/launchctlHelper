@@ -1,0 +1,7 @@
+2026-04-08T15:07:28.905Z INFO  onKeyDown fired for action e06c87a9926c2c40901244eab57ed989
+2026-04-08T15:07:28.908Z INFO  settings.albumUrl = https://music.apple.com/us/album/kicking-my-feet/1843702346
+2026-04-08T15:07:28.910Z INFO  Parsed album: label=Kicking My Feet, url=https://music.apple.com/us/album/kicking-my-feet/1843702346
+2026-04-08T15:07:28.910Z INFO  openAndPlay called with url=https://music.apple.com/us/album/kicking-my-feet/1843702346
+2026-04-08T15:07:28.910Z INFO  openUrl resolved — waiting 4s before play
+2026-04-08T15:07:32.913Z INFO  Sending osascript play command
+2026-04-08T15:07:33.052Z INFO  osascript play succeeded | stdout: ""

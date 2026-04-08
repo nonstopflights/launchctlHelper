@@ -1,0 +1,61 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/master.swiftdeps"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/AppConstants.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppConstants.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppConstants.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppConstants.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppConstants.dia"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/AppleMusicAlbumCompanionApp.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicAlbumCompanionApp.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicAlbumCompanionApp.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicAlbumCompanionApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicAlbumCompanionApp.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicAlbumCompanionApp.dia"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/AppleMusicURLValidator.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicURLValidator.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicURLValidator.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicURLValidator~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicURLValidator.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/AppleMusicURLValidator.dia"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/CompanionViewModel.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/CompanionViewModel.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/CompanionViewModel.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/CompanionViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/CompanionViewModel.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/CompanionViewModel.dia"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/ContentView.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/ContentView.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/ContentView.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/ContentView.dia"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/DeepLinkSender.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/DeepLinkSender.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/DeepLinkSender.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/DeepLinkSender~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/DeepLinkSender.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/DeepLinkSender.dia"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/Models.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/Models.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/Models.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/Models.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/Models.dia"
+  },
+  "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/Sources/AppleMusicAlbumCompanion/PluginStateStore.swift": {
+    "dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/PluginStateStore.d",
+    "object": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/PluginStateStore.swift.o",
+    "swiftmodule": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/PluginStateStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/PluginStateStore.swiftdeps",
+    "diagnostics": "/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/macos-companion/.build/arm64-apple-macosx/debug/AppleMusicAlbumCompanion.build/PluginStateStore.dia"
+  }
+}

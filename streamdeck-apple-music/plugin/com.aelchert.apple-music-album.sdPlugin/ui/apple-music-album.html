@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Apple Music Album</title>
+    <link rel="stylesheet" href="./apple-music-album.css" />
+  </head>
+  <body>
+    <main class="panel">
+      <section class="field">
+        <label for="album-url">Apple Music Album URL</label>
+        <textarea id="album-url" rows="3" placeholder="https://music.apple.com/.../album/..."></textarea>
+      </section>
+
+      <section class="toggle-row">
+        <label for="show-title">Show Album Title</label>
+        <input id="show-title" type="checkbox" />
+      </section>
+
+      <button id="save-button" type="button">Save</button>
+
+      <p id="status-message" class="help"></p>
+    </main>
+
+    <script src="./apple-music-album.js"></script>
+  </body>
+</html>

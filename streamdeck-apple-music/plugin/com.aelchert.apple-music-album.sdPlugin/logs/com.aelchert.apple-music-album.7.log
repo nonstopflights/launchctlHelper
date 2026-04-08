@@ -1,0 +1,14 @@
+2026-04-08T15:06:18.149Z INFO  onKeyDown fired for action 257b3bdb4f01ee19a480be7e578ddab7
+2026-04-08T15:06:18.153Z INFO  settings.albumUrl = https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T15:06:18.155Z INFO  Parsed album: label=Here For It All, url=https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T15:06:18.155Z INFO  openAndPlay called with url=https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T15:06:18.155Z INFO  openUrl resolved — waiting 4s before play
+2026-04-08T15:06:22.158Z INFO  Sending osascript play command
+2026-04-08T15:06:22.319Z INFO  osascript play succeeded | stdout: ""
+2026-04-08T15:06:23.137Z INFO  onKeyDown fired for action df2978cf000abcf6adeb1ab1c31e8d63
+2026-04-08T15:06:23.137Z INFO  settings.albumUrl = https://music.apple.com/us/album/marmalade/1734284080
+2026-04-08T15:06:23.137Z INFO  Parsed album: label=Marmalade, url=https://music.apple.com/us/album/marmalade/1734284080
+2026-04-08T15:06:23.138Z INFO  openAndPlay called with url=https://music.apple.com/us/album/marmalade/1734284080
+2026-04-08T15:06:23.138Z INFO  openUrl resolved — waiting 4s before play
+2026-04-08T15:06:27.139Z INFO  Sending osascript play command
+2026-04-08T15:06:27.284Z INFO  osascript play succeeded | stdout: ""

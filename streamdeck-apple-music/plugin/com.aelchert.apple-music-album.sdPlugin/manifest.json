@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schemas.elgato.com/streamdeck/plugins/manifest.json",
+  "Actions": [
+    {
+      "Controllers": ["Keypad"],
+      "Icon": "imgs/actions/apple-music-album/icon",
+      "Name": "Apple Music Album",
+      "PropertyInspectorPath": "ui/apple-music-album.html",
+      "States": [
+        {
+          "Image": "imgs/actions/apple-music-album/key",
+          "TitleAlignment": "bottom"
+        }
+      ],
+      "Tooltip": "Open a saved Apple Music album URL",
+      "UUID": "com.aelchert.apple-music-album.action"
+    }
+  ],
+  "Author": "Alex Elchert",
+  "Category": "Apple Music",
+  "CategoryIcon": "imgs/plugin-icon",
+  "CodePath": "bin/plugin.js",
+  "Description": "Assign Apple Music album URLs from a local macOS companion app.",
+  "Icon": "imgs/plugin-icon",
+  "Name": "Apple Music Album",
+  "Nodejs": {
+    "Debug": "enabled",
+    "Version": "20"
+  },
+  "OS": [
+    {
+      "MinimumVersion": "13",
+      "Platform": "mac"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "7.0"
+  },
+  "UUID": "com.aelchert.apple-music-album",
+  "Version": "0.1.0.0"
+}

@@ -1,0 +1,11 @@
+2026-04-07T18:55:23.282Z ERROR Failed to initialize Apple Music Album plugin: ENOENT: no such file or directory, rename '/Users/aelchert/Library/Application Support/com.aelchert.apple-music-album/state.json.tmp' -> '/Users/aelchert/Library/Application Support/com.aelchert.apple-music-album/state.json'
+2026-04-07T18:57:01.140Z ERROR Process encountered uncaught exception 
+Error: ENOENT: no such file or directory, rename '/Users/aelchert/Library/Application Support/com.aelchert.apple-music-album/state.json.tmp' -> '/Users/aelchert/Library/Application Support/com.aelchert.apple-music-album/state.json'
+    at async Object.rename (node:internal/fs/promises:777:10)
+    at async SharedStateStore.write (/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/plugin/src/lib/assignment-state.ts:81:5)
+    at async SharedStateStore.setArmed (/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/plugin/src/lib/assignment-state.ts:49:5)
+    at async PluginCoordinator.syncSharedState (/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/plugin/src/lib/plugin-coordinator.ts:262:5)
+    at async PluginCoordinator.registerOrUpdateVisibleAction (/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/plugin/src/lib/plugin-coordinator.ts:165:5)
+    at async PluginCoordinator.updateSettingsFromStreamDeck (/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/plugin/src/lib/plugin-coordinator.ts:205:5)
+    at async SingletonAction.onPropertyInspectorDidAppear (/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/plugin/src/actions/apple-music-album.ts:51:5)
+    at async <anonymous> (/Users/aelchert/Git/launchctlHelper/streamdeck-apple-music/plugin/node_modules/@elgato/streamdeck/dist/plugin/actions/service.js:199:21)

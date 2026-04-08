@@ -1,0 +1,64 @@
+Metadata-Version: 2.4
+Name: launchctl-helper
+Version: 0.1.0
+Summary: Rich-based launchctl helper for macOS
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: rich<15,>=13.7
+
+# launchctlHelper
+
+Small Rich-based CLI for inspecting macOS `launchctl` services and the plist files that define them.
+
+## Features
+
+- Scans common launchd plist directories:
+  - `/System/Library/LaunchDaemons`
+  - `/Library/LaunchDaemons`
+  - `/System/Library/LaunchAgents`
+  - `/Library/LaunchAgents`
+  - `~/Library/LaunchAgents`
+- Shows:
+  - launchd label
+  - inferred domain (`gui/<uid>`, `user/<uid>`, or `system`)
+  - plist source path
+  - current PID from `launchctl list` when available
+  - disabled state from `launchctl print-disabled`
+- Supports:
+  - `status`
+  - `load`
+  - `unload`
+  - `enable`
+  - `disable`
+  - `find`
+  - `doctor`
+
+## Install
+
+```bash
+uv sync
+```
+
+The first `uv sync` needs network access so `uv` can resolve and install dependencies.
+
+## Usage
+
+```bash
+uv run launchctl-helper list
+uv run launchctl-helper list --running
+uv run launchctl-helper find postgres
+uv run launchctl-helper status homebrew.mxcl.postgresql@16
+uv run launchctl-helper status ~/Library/LaunchAgents/com.example.agent.plist
+uv run launchctl-helper load ~/Library/LaunchAgents/com.example.agent.plist --dry-run
+uv run launchctl-helper unload com.example.agent --domain gui/$(id -u) --dry-run
+uv run launchctl-helper disable com.example.agent --domain gui/$(id -u) --dry-run
+uv run launchctl-helper doctor
+```
+
+## Notes
+
+- `load` uses `launchctl bootstrap`.
+- `unload` uses `launchctl bootout`.
+- `status` tries `launchctl print` across `gui/<uid>`, `user/<uid>`, and `system` unless you pass `--domain`.
+- Runtime visibility is strongest for the current user session because `launchctl list` is domain/context-sensitive.
+- If you manage system daemons, some operations may still require `sudo`.

@@ -1,0 +1,2 @@
+[console_scripts]
+launchctl-helper = launchctl_helper:main

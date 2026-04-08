@@ -1,0 +1,47 @@
+2026-04-08T15:31:26.531Z INFO  onKeyDown fired for action cb23ee75c069ddb94b8189b5afbcdb32
+2026-04-08T15:31:26.534Z INFO  settings.albumUrl = https://music.apple.com/us/album/ricochet/1862845733
+2026-04-08T15:31:26.535Z INFO  Parsed album: label=Ricochet, url=https://music.apple.com/us/album/ricochet/1862845733
+2026-04-08T15:31:26.536Z INFO  openAndPlay called with url=https://music.apple.com/us/album/ricochet/1862845733
+2026-04-08T15:31:26.698Z INFO  openUrl resolved — waiting 4s before play
+2026-04-08T15:31:28.701Z INFO  Play attempt 1/20
+2026-04-08T15:31:28.875Z INFO  Window title: "music"
+2026-04-08T15:31:29.876Z INFO  Play attempt 2/20
+2026-04-08T15:31:30.091Z INFO  Window title: "music"
+2026-04-08T15:31:31.091Z INFO  Play attempt 3/20
+2026-04-08T15:31:31.289Z INFO  Window title: "music"
+2026-04-08T15:31:32.290Z INFO  Play attempt 4/20
+2026-04-08T15:31:32.815Z INFO  Window title: "music"
+2026-04-08T15:31:33.817Z INFO  Play attempt 5/20
+2026-04-08T15:31:34.009Z INFO  Window title: "music"
+2026-04-08T15:31:35.010Z INFO  Play attempt 6/20
+2026-04-08T15:31:35.230Z INFO  Window title: "music"
+2026-04-08T15:31:36.232Z INFO  Play attempt 7/20
+2026-04-08T15:31:36.427Z INFO  Window title: "music"
+2026-04-08T15:31:37.429Z INFO  Play attempt 8/20
+2026-04-08T15:31:37.663Z INFO  Window title: "music"
+2026-04-08T15:31:38.665Z INFO  Play attempt 9/20
+2026-04-08T15:31:38.875Z INFO  Window title: "music"
+2026-04-08T15:31:39.877Z INFO  Play attempt 10/20
+2026-04-08T15:31:40.095Z INFO  Window title: "music"
+2026-04-08T15:31:41.097Z INFO  Play attempt 11/20
+2026-04-08T15:31:41.276Z INFO  Window title: "music"
+2026-04-08T15:31:42.278Z INFO  Play attempt 12/20
+2026-04-08T15:31:42.460Z INFO  Window title: "music"
+2026-04-08T15:31:43.462Z INFO  Play attempt 13/20
+2026-04-08T15:31:43.660Z INFO  Window title: "music"
+2026-04-08T15:31:44.662Z INFO  Play attempt 14/20
+2026-04-08T15:31:44.843Z INFO  Window title: "music"
+2026-04-08T15:31:45.845Z INFO  Play attempt 15/20
+2026-04-08T15:31:46.045Z INFO  Window title: "music"
+2026-04-08T15:31:47.046Z INFO  Play attempt 16/20
+2026-04-08T15:31:47.241Z INFO  Window title: "music"
+2026-04-08T15:31:48.242Z INFO  Play attempt 17/20
+2026-04-08T15:31:48.464Z INFO  Window title: "music"
+2026-04-08T15:31:49.465Z INFO  Play attempt 18/20
+2026-04-08T15:31:49.702Z INFO  Window title: "music"
+2026-04-08T15:31:50.703Z INFO  Play attempt 19/20
+2026-04-08T15:31:50.875Z INFO  Window title: "music"
+2026-04-08T15:31:51.877Z INFO  Play attempt 20/20
+2026-04-08T15:31:52.045Z INFO  Window title: "music"
+2026-04-08T15:31:52.045Z INFO  Album appears loaded (isLoaded=false), sending Space
+2026-04-08T15:31:52.174Z INFO  Play keystroke sent

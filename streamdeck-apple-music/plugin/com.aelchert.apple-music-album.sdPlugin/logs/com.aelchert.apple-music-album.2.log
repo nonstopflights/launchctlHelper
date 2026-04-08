@@ -1,0 +1,9 @@
+2026-04-08T15:34:48.860Z INFO  onKeyDown fired for action 257b3bdb4f01ee19a480be7e578ddab7
+2026-04-08T15:34:48.865Z INFO  settings.albumUrl = https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T15:34:48.867Z INFO  Parsed album: label=Here For It All, url=https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T15:34:48.867Z INFO  openAndPlay called with url=https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T15:34:49.033Z INFO  openUrl resolved — waiting 4s before play
+2026-04-08T15:34:54.036Z INFO  Dumping Music.app UI to find Play button
+2026-04-08T15:34:54.687Z INFO  UI buttons:\nBUTTON: missing value | desc: close button
+BUTTON: missing value | desc: full screen button
+BUTTON: missing value | desc: minimize button

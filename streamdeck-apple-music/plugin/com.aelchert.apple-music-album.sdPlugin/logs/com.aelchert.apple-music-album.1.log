@@ -1,0 +1,17 @@
+2026-04-08T17:49:12.090Z INFO  onKeyDown fired for action 257b3bdb4f01ee19a480be7e578ddab7
+2026-04-08T17:49:12.101Z INFO  settings.albumUrl = https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T17:49:12.105Z INFO  Parsed album: label=Here For It All, url=https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T17:49:12.105Z INFO  openAndPlay called with url=https://music.apple.com/us/album/here-for-it-all/1827315213
+2026-04-08T17:49:14.331Z INFO  Playback probe 1/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:15.548Z INFO  Playback probe 2/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:16.731Z INFO  Playback probe 3/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:17.915Z INFO  Playback probe 4/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:19.181Z INFO  Playback probe 5/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:20.382Z INFO  Playback probe 6/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:21.600Z INFO  Playback probe 7/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:22.832Z INFO  Playback probe 8/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:24.015Z INFO  Playback probe 9/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:25.215Z INFO  Playback probe 10/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:26.415Z INFO  Playback probe 11/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:27.616Z INFO  Playback probe 12/12: view="0", selection=0, state=unknown, matched=false
+2026-04-08T17:49:27.783Z INFO  Playback result: played:current
